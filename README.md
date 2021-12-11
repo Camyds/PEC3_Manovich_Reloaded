@@ -29,7 +29,7 @@ Las funciones de Alexa dependen de dos elementos claves. Por una parte están lo
 
 
 ## Referencias y Bibliografía
-- Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
+- Manovich, Lev. (2013). *El Software toma el mando. Barcelona*: Editorial UOC.
 _____________________________________________
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://tubikstudio.com/)
  
