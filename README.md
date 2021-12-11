@@ -14,7 +14,6 @@ Manovich define la multimedia y la hibridación como la combinación de múltipl
 Un ejemplo de híbrido de  juego tradicional con visualización en  realidad aumentada a traves de nuestros dispositivos, telefonos, tablet. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FCKVpt5HjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--
 
 ### Re-descubriendo la hibridación: Caso 2 "Alexa"
 
