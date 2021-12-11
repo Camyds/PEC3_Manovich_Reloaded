@@ -23,11 +23,15 @@ Pokémon fue en su origen un videojuego de rol (RPG) para consolas portátiles (
 
 ### Re-descubriendo la hibridación: Caso 2 "Alexa"
 
+Alexa se ha convertido en uno de los asistentes de referencia. Amazon incluso llegó a cerrar un acuerdo con Microsoft para integrar Alexa dentro de Cortana, y poder acceder así a millones de PCs y portátiles en todo el mundo.
+
+Las funciones de Alexa dependen de dos elementos claves. Por una parte están los comandos de voz que integra, y con los que puedes realizarle una gran variedad de peticiones. Y luego están las skills, que son complementos que le puedes instalar para añadirles aún más funcionalidades
+
 
 ## Referencias y Bibliografía
 - Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
 _____________________________________________
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY Tubik studio
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://tubikstudio.com/)
  
 
 
