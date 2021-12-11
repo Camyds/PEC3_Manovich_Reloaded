@@ -27,6 +27,7 @@ Alexa se ha convertido en uno de los asistentes de referencia. Amazon incluso ll
 
 Las funciones de Alexa dependen de dos elementos claves. Por una parte están los comandos de voz que integra, y con los que puedes realizarle una gran variedad de peticiones. Y luego están las skills, que son complementos que le puedes instalar para añadirles aún más funcionalidades
 
+Es un ejemplo caro de hibridación, la utilización de los medios, televisión, domótica etc... 
 
 ## Referencias y Bibliografía
 - Manovich, Lev. (2013). *El Software toma el mando. Barcelona*: Editorial UOC.
