@@ -13,7 +13,7 @@
 ### Re-descubriendo la hibridación: Caso 1 Pokemon Go
 Un ejemplo de híbrido de  juego tradicional con visualización en  realidad aumentada a traves de nuestros dispositivos, telefonos, tablet.
 
-*Primer videojuego que llevó la realidad aumentada al mundo real*
+**Primer videojuego que llevó la realidad aumentada al mundo real**
 
 Pokémon fue en su origen un videojuego de rol (RPG) para consolas portátiles (gameboy) de la empresa japonesa Nintendo. A medida que el videojuego se fue haciendo conocido en Occidente se crearon no solo las series de TV sino también las cartas, con las cuales los niños podían jugar a los Pokémones en cualquier lugar. 
 
