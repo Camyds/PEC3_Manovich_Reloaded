@@ -42,6 +42,5 @@ Es un ejemplo claro de hibridación, la utilización de los medios, televisión,
 - Digital Guide IConos. [MArkDown introducción al lenguaje marcado](https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/tutorial-de-markdown/)
 - Autral. [PokemonGo](https://www.austral.edu.ar/posgrados-comunicacion/contenidos/pokemon-go-el-cruce-entre-realidad-aumentada-geolocalizacion-y-videojuegos/)
 
-
 ---
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY Tubik studio
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio]
