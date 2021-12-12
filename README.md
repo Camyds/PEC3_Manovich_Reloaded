@@ -34,7 +34,7 @@ Las funciones de Alexa dependen de dos elementos claves. Por una parte están lo
 
 Alexa es el asistente virtual controlado por voz creado por Amazon, y lanzado en noviembre de 2014 juntu línea de altavoces inteligentes Echo. ... Empiezas invocándolo diciendo su nombre, momento en el que el altavoz o dispositivo en el que esté integrado se pondrá a escuchar.
 
-Es un ejemplo claro de hibridación, la utilización de los medios, televisión, domótica etc ...
+Es un ejemplo claro de hibridación, la utilización de los medios, televisión, domótica, puedes tener conectado cualquier electrodomestico y dar uso a traves de Alexa.
 
 <img src="https://github.com/Camyds/PEC3_Manovich_Reloaded/blob/main/1366_2000%20(1).jpg" alt = Alexa ancho = "800">
      
