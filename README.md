@@ -25,9 +25,14 @@ Es muy probable que experiencias ya centenarias como «ir la cine», o más reci
 Alexa se ha convertido en uno de los asistentes de referencia. Amazon incluso llegó a cerrar un acuerdo con Microsoft para integrar Alexa dentro de Cortana, y poder acceder así a millones de PCs y portátiles en todo el mundo.
 Las funciones de Alexa dependen de dos elementos claves. Por una parte están los comandos de voz que integra, y con los que puedes realizarle una gran variedad de peticiones. Y luego están las skills, que son complementos que le puedes instalar para añadirles aún más funcionalidades
 
-Es un ejemplo caro de hibridación, la utilización de los medios, televisión, domótica etc ...
+Es un ejemplo claro de hibridación, la utilización de los medios, televisión, domótica etc ...
 
-##Referencias y Bibliografía
+## Referencias y Bibliografía
+-Manovich, Lev. (2013). El Software toma el mando. Barcelona : Editorial UOC.
+-Github. [Hoja de referencias MarkDown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#youtube-videos)
+- Digital Guide IConos. [MArkDown introucción al lenguaje marcado](https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/tutorial-de-markdown/)
+- Autral. [PokemonGo](https://www.austral.edu.ar/posgrados-comunicacion/contenidos/pokemon-go-el-cruce-entre-realidad-aumentada-geolocalizacion-y-videojuegos/)
+
 
 ---
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY Tubik studio
