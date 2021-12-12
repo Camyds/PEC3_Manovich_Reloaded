@@ -22,7 +22,7 @@ Pokémon fue en su origen un videojuego de rol (RPG) para consolas portátiles (
 Es muy probable que experiencias ya centenarias como «ir la cine», o más recientes como «jugar a Strike Counter en el PC», queden obsoletas en menos de una generación.
 
 
-[![Video Pokemon Go](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Video Pokemon Go](https://github.com/Camyds/PEC3_Manovich_Reloaded/blob/main/Pokemon%20Go.-Video.png)](https://www.youtube.com/embed/4FCKVpt5HjM=YOUTUBE_VIDEO_ID_HERE)
 
 ###  Re-descubriendo la hibridación: Caso 2 "Alexa"
 
