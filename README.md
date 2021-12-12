@@ -42,7 +42,9 @@ Es un ejemplo claro de hibridación, la utilización de los medios, televisión,
 
 <img src="https://github.com/Camyds/PEC3_Manovich_Reloaded/blob/main/1366_2000%20(1).jpg" alt = Alexa ancho = "800">
 
->*«No estamos inventando nada con los nuevos medios…» Cuando de interacción se trata, simplemente estamos evolucionando, explotando de una forma más extensa y diversificada la potencialidad de la interacción entre los seres humanos y su realidad inmediata, esta vez, sin embargo, con una capa mediadora omnipresente: la tecnología digital 
+*«No estamos inventando nada con los nuevos medios…» Cuando de interacción se trata, simplemente estamos evolucionando, explotando de una forma más extensa y diversificada la potencialidad de la interacción entre los seres humanos y su realidad inmediata, esta vez, sin embargo, con una capa mediadora omnipresente: la tecnología digital 
+
+>**“Es posible concebir la multimedia como un caso particular de medios híbridos. Sin embargo, prefiero verla realmente como un solapamiento de dos fenómenos distintos. Aunque ciertas aplicaciones multimedia clásicas de los años noventa podrían considerarse híbridos de medios, la mayoría no.” Manovich, Software Takes Command**
    
 ## Referencias y Bibliografía
 - Manovich, Lev. (2013). El Software toma el mando. Barcelona : Editorial UOC.
