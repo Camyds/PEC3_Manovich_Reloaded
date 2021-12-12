@@ -27,7 +27,10 @@ Es muy probable que experiencias ya centenarias como «ir la cine», o más reci
 ###  Re-descubriendo la hibridación: Caso 2 "Alexa"
 
 Alexa se ha convertido en uno de los asistentes de referencia. Amazon incluso llegó a cerrar un acuerdo con Microsoft para integrar Alexa dentro de Cortana, y poder acceder así a millones de PCs y portátiles en todo el mundo.
-Las funciones de Alexa dependen de dos elementos claves. Por una parte están los comandos de voz que integra, y con los que puedes realizarle una gran variedad de peticiones. Y luego están las skills, que son complementos que le puedes instalar para añadirles aún más funcionalidades
+
+Las funciones de Alexa dependen de dos elementos claves. Por una parte están los comandos de voz que integra, y con los que puedes realizarle una gran variedad de peticiones. Y luego están las skills, que son complementos que le puedes instalar para añadirles aún más funcionalidades-
+
+Alexa es el asistente virtual controlado por voz creado por Amazon, y lanzado en noviembre de 2014 junto a su línea de altavoces inteligentes Echo. ... Empiezas invocándolo diciendo su nombre, momento en el que el altavoz o dispositivo en el que esté integrado se pondrá a escuchar.
 
 Es un ejemplo claro de hibridación, la utilización de los medios, televisión, domótica etc ...
 
@@ -36,7 +39,7 @@ Es un ejemplo claro de hibridación, la utilización de los medios, televisión,
 ## Referencias y Bibliografía
 - Manovich, Lev. (2013). El Software toma el mando. Barcelona : Editorial UOC.
 - Github. [Hoja de referencias MarkDown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#youtube-videos)
-- Digital Guide IConos. [MArkDown introucción al lenguaje marcado](https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/tutorial-de-markdown/)
+- Digital Guide IConos. [MArkDown introducción al lenguaje marcado](https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/tutorial-de-markdown/)
 - Autral. [PokemonGo](https://www.austral.edu.ar/posgrados-comunicacion/contenidos/pokemon-go-el-cruce-entre-realidad-aumentada-geolocalizacion-y-videojuegos/)
 
 
