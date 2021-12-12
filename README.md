@@ -46,4 +46,4 @@ Es un ejemplo claro de hibridación, la utilización de los medios, televisión,
 - Xataka [Que puedes hacer con Alexa](https://www.xataka.com/basics/que-alexa-que-puedes-hacer-que-dispositivos-compatibles)
 
 ---
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio]
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com)
