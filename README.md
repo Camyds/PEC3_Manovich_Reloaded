@@ -28,7 +28,9 @@ Es muy probable que experiencias ya centenarias como «ir la cine», o más reci
 
 Alexa se ha convertido en uno de los asistentes de referencia. Amazon incluso llegó a cerrar un acuerdo con Microsoft para integrar Alexa dentro de Cortana, y poder acceder así a millones de PCs y portátiles en todo el mundo.
 
-Las funciones de Alexa dependen de dos elementos claves. Por una parte están los comandos de voz que integra, y con los que puedes realizarle una gran variedad de peticiones. Y luego están las skills, que son complementos que le puedes instalar para añadirles aún más funcionalidades-
+Las funciones de Alexa dependen de dos elementos claves. Por una parte están los comandos de voz que integra, y con los que puedes realizarle una gran variedad de peticiones. Y luego están las skills, que son complementos que le puedes instalar para añadirles aún más funcionalidades.
+
+[![video Alexa](https://github.com/Camyds/PEC3_Manovich_Reloaded/blob/main/D829B7E3-D826-46CD-A557-875CC4A83393.jpeg)](https://youtu.be/uD2sJP0-wxM)
 
 Alexa es el asistente virtual controlado por voz creado por Amazon, y lanzado en noviembre de 2014 juntu línea de altavoces inteligentes Echo. ... Empiezas invocándolo diciendo su nombre, momento en el que el altavoz o dispositivo en el que esté integrado se pondrá a escuchar.
 
