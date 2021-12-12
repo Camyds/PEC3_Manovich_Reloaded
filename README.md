@@ -31,7 +31,7 @@ Las funciones de Alexa dependen de dos elementos claves. Por una parte están lo
 
 Es un ejemplo claro de hibridación, la utilización de los medios, televisión, domótica etc ...
 
-<img src="https://github.com/Camyds/PEC3_Manovich_Reloaded/blob/main/1366_2000%20(1).jpg" alt = PokemonGo ancho = "800">
+<img src="https://github.com/Camyds/PEC3_Manovich_Reloaded/blob/main/1366_2000%20(1).jpg" alt = Alexa ancho = "800">
      
 ## Referencias y Bibliografía
 - Manovich, Lev. (2013). El Software toma el mando. Barcelona : Editorial UOC.
