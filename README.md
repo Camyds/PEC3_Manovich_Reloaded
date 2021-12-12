@@ -4,14 +4,16 @@
 ###  Fecha: <em style = "color: # 13BFC8"> 12.12.2021 </em>
 ***
 ###  Planteamiento
->Manovich define la multimedia y la hibridación como la combinación de múltiples medios en uno solo. En el caso de la multimedia estos medios comparten un entorno y coexisten manteniendo cada uno la forma en que se consumen y sus peculiaridades, este documento sería un buen ejemplo, ya que tendremos textos escritos imágenes y vídeos, pero no por ello será un medio hibrido. En cambio, la hibridación lo define como la combinación de estos medios ya existentes, de modo que se crean nuevas técnicas y herramientas a partir de las ya existentes para definir un nuevo medio, es decir, el resultado es más que la suma de sus partes
+>Manovich define la multimedia y la hibridación como la combinación de múltiples medios en uno solo. En el caso de la multimedia estos medios comparten un entorno y coexisten manteniendo cada uno la forma en que se consumen y sus peculiaridades, este documento sería un buen ejemplo, ya que tendremos textos escritos imágenes y vídeos, pero no por ello será un medio hibrido. En cambio, la hibridación lo define como la combinación de estos medios ya existentes, de modo que se crean nuevas técnicas y herramientas a partir de las ya existentes para definir un nuevo medio, es decir, el resultado es más que la suma de sus partes.
+
 <img src = "https://github.com/Camyds/PEC3_Manovich_Reloaded/blob/main/color_glossary_design_tubik_blog.png" alt = inicio width = "800">
 
 ###  Re-descubriendo la hibridación: Caso 1 Pokemon Go
 
 Un ejemplo de híbrido de juego tradicional con visualización en realidad aumentada a través de nuestros dispositivos, teléfonos, Tablet.
-** Primer videojuego que llevó la realidad aumentada al mundo real **
-Pokémon fue en su origen un videojuego de rol (RPG) para consolas portátiles (gameboy) de la empresa japonesa Nintendo. A medida que el videojuego se fue haciendo conocido en Occidente se crearon no solo las series de TV sino también las cartas, con las cuales los niños podían jugar a los Pokémones en cualquier lugarR.
+
+**Primer videojuego que llevó la realidad aumentada al mundo real**
+Pokémon fue en su origen un videojuego de rol (RPG) para consolas portátiles (gameboy) de la empresa japonesa Nintendo. A medida que el videojuego se fue haciendo conocido en Occidente se crearon no solo las series de TV sino también las cartas, con las cuales los niños podían jugar a los Pokémones en cualquier lugar.
 
 <img src="https://github.com/Camyds/PEC3_Manovich_Reloaded/blob/main/Transmedia-Pokemon-Go-2-Fco-Albarello.jpg" alt = PokemonGo ancho = "800">
 
@@ -20,8 +22,7 @@ Pokémon fue en su origen un videojuego de rol (RPG) para consolas portátiles (
 Es muy probable que experiencias ya centenarias como «ir la cine», o más recientes como «jugar a Strike Counter en el PC», queden obsoletas en menos de una generación.
 
 
-<iframe width = "560" height = "315" src = "https://www.youtube.com/embed/4FCKVpt5HjM" title = "Reproductor de video de YouTube" frameborder = "0" allow = "acelerómetro; reproducción automática; portapapeles- escribir; medios cifrados; giroscopio; imagen en imagen "allowfullscreen> </iframe>
-
+[![Video Pokemon Go](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 ###  Re-descubriendo la hibridación: Caso 2 "Alexa"
 
@@ -30,11 +31,11 @@ Las funciones de Alexa dependen de dos elementos claves. Por una parte están lo
 
 Es un ejemplo claro de hibridación, la utilización de los medios, televisión, domótica etc ...
 
-<img src= 
+<img src="https://github.com/Camyds/PEC3_Manovich_Reloaded/blob/main/1366_2000%20(1).jpg" alt = PokemonGo ancho = "800">
      
 ## Referencias y Bibliografía
--Manovich, Lev. (2013). El Software toma el mando. Barcelona : Editorial UOC.
--Github. [Hoja de referencias MarkDown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#youtube-videos)
+- Manovich, Lev. (2013). El Software toma el mando. Barcelona : Editorial UOC.
+- Github. [Hoja de referencias MarkDown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#youtube-videos)
 - Digital Guide IConos. [MArkDown introucción al lenguaje marcado](https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/tutorial-de-markdown/)
 - Autral. [PokemonGo](https://www.austral.edu.ar/posgrados-comunicacion/contenidos/pokemon-go-el-cruce-entre-realidad-aumentada-geolocalizacion-y-videojuegos/)
 
