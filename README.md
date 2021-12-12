@@ -4,9 +4,14 @@
 ###  Fecha: <em style = "color: # 13BFC8"> 12.12.2021 </em>
 ***
 ###  Planteamiento
->Manovich define la multimedia y la hibridación como la combinación de múltiples medios en uno solo. En el caso de la multimedia estos medios comparten un entorno y coexisten manteniendo cada uno la forma en que se consumen y sus peculiaridades, este documento sería un buen ejemplo, ya que tendremos textos escritos imágenes y vídeos, pero no por ello será un medio hibrido. En cambio, la hibridación lo define como la combinación de estos medios ya existentes, de modo que se crean nuevas técnicas y herramientas a partir de las ya existentes para definir un nuevo medio, es decir, el resultado es más que la suma de sus partes.
+
+¿Cuál es la diferencia fundamental entre la multimedia y la hibridación ?
+
+>Pues la clave para entender esta diferencia, más allá de ver la multimedia como un paso en el camino hacia la hibridación total de los medios, está en la relación que se establece entre los diferentes elementos que conforman un medio.
 
 <img src = "https://github.com/Camyds/PEC3_Manovich_Reloaded/blob/main/color_glossary_design_tubik_blog.png" alt = inicio width = "800">
+
+>Manovich define la multimedia y la hibridación como la combinación de múltiples medios en uno solo. En el caso de la multimedia estos medios comparten un entorno y coexisten manteniendo cada uno la forma en que se consumen y sus peculiaridades, este documento sería un buen ejemplo, ya que tendremos textos escritos imágenes y vídeos, pero no por ello será un medio hibrido. En cambio, la hibridación lo define como la combinación de estos medios ya existentes, de modo que se crean nuevas técnicas y herramientas a partir de las ya existentes para definir un nuevo medio, es decir, el resultado es más que la suma de sus partes.
 
 ###  Re-descubriendo la hibridación: Caso 1 Pokemon Go
 
@@ -20,7 +25,6 @@ Pokémon fue en su origen un videojuego de rol (RPG) para consolas portátiles (
 **La evolución tecnológica es una red de bifurcaciones, hibridaciones y recuperaciones**. Desde esta perspectiva PokemonGo es una interfaz donde se combina la tecnología de la Realidad Aumentada con los dispositivos móviles, los sistemas de geolocalización, un mundo narrativo que explota la nostalgia y  una serie de reglas videolúdicas ampliamente conocidas por los usuario.
 
 Es muy probable que experiencias ya centenarias como «ir la cine», o más recientes como «jugar a Strike Counter en el PC», queden obsoletas en menos de una generación.
-
 
 [![Video Pokemon Go](https://github.com/Camyds/PEC3_Manovich_Reloaded/blob/main/Pokemon%20Go.-Video.png)](https://www.youtube.com/embed/4FCKVpt5HjM=YOUTUBE_VIDEO_ID_HERE)
 
@@ -37,13 +41,16 @@ Alexa es el asistente virtual controlado por voz creado por Amazon, y lanzado en
 Es un ejemplo claro de hibridación, la utilización de los medios, televisión, domótica, puedes tener conectado cualquier electrodomestico y dar uso a traves de Alexa.
 
 <img src="https://github.com/Camyds/PEC3_Manovich_Reloaded/blob/main/1366_2000%20(1).jpg" alt = Alexa ancho = "800">
-     
+
+>*En el fondo, entiéndase el enfoque de esta afirmación: «No estamos inventando nada con los nuevos medios…» Cuando de interacción se trata, simplemente estamos evolucionando, explotando de una forma más extensa y diversificada la potencialidad de la interacción entre los seres humanos y su realidad inmediata, esta vez, sin embargo, con una capa mediadora omnipresente: la tecnología digital 
+   
 ## Referencias y Bibliografía
 - Manovich, Lev. (2013). El Software toma el mando. Barcelona : Editorial UOC.
 - Github. [Hoja de referencias MarkDown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#youtube-videos)
 - Digital Guide IConos. [MArkDown introducción al lenguaje marcado](https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/tutorial-de-markdown/)
 - Autral. [PokemonGo](https://www.austral.edu.ar/posgrados-comunicacion/contenidos/pokemon-go-el-cruce-entre-realidad-aumentada-geolocalizacion-y-videojuegos/)
 - Xataka [Que puedes hacer con Alexa](https://www.xataka.com/basics/que-alexa-que-puedes-hacer-que-dispositivos-compatibles)
+- UOC[fundamentos y evolución de la multimedia](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
 
 ---
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com)
