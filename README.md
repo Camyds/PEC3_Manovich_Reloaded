@@ -33,9 +33,11 @@ Es un ejemplo caro de hibridación, la utilización de los medios, televisión, 
 - Manovich, Lev. (2013). *El Software toma el mando. Barcelona*: Editorial UOC.
 - Autral Edu. [Trasmedia](https://www.austral.edu.ar/posgrados-comunicacion/contenidos/pokemon-go-el-cruce-entre-realidad-aumentada-geolocalizacion-y-videojuegos/)
 - RRub.- [Imagenes y multimedia en R Markdown](https://rpubs.com/Juve_Campos/ImagenesyMultimediaEnRmarkdown)
-- IConos.- [Introducción al lenguaje marcado](https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/tutorial-de-markdown/)
+- IConos.- [Introducción al lenguaje marcado](https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/tutorial-de-markdown)
+- Github.- [hoja de trucos](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#youtube-videos)
 ---
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://tubikstudio.com/)
+
  
 
 
